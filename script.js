@@ -11,7 +11,7 @@ function displayMeetingInformation() {
         if (info.link === "TBD") {
             linkInfo = "TBD";
         } else {
-            linkInfo = `<a href="${info.link}">${info.link}</a>`;
+            linkInfo = `<a href="${info.link}">Click here to join</a>`;
         }
         subjectElement.innerHTML = `<h3>${info.name}</h3>
                                      <p><strong>Link:</strong> ${linkInfo}</p>
