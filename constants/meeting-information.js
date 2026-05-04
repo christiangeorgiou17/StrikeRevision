@@ -1,21 +1,21 @@
 export const MEETING_INFORMATION = {
     BIOLOGY: {
         name: "Biology",
-        link: "TBD",
+        link: "https://calendar.app.google/Zxw1W5Z4RCW4WBXW7",
         time: "May 5 10:30",
         paper: "1",
         presenter: "Christian"
     },
     COMPUTER_SCIENCE: {
         name: "Computer Science",
-        link: "TBD",
+        link: "https://calendar.app.google/Ef98Acr2CphDjU1S9",
         time: "May 5 14:30",
         paper: "1",
         presenter: "Christian"
     },
     GEOGRAPHY: {
         name: "Geography",
-        link: "TBD",
+        link: "https://calendar.app.google/euhJUQqmp9josNDs8",
         time: "May 6 10:30",
         paper: "1",
         presenter: "Christian"
