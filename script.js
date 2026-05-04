@@ -1,0 +1,25 @@
+import { MEETING_INFORMATION } from "./constants/meeting-information.js";
+
+
+function displayMeetingInformation() {
+    const meetingInfoContainer = document.getElementById("MEETING_INFORMATION");
+    for (const subject in MEETING_INFORMATION) {
+        const info = MEETING_INFORMATION[subject];
+        const subjectElement = document.createElement("div");
+        subjectElement.className = "meeting-grid-item";
+        let linkInfo;
+        if (info.link === "TBD") {
+            linkInfo = "TBD";
+        } else {
+            linkInfo = `<a href="${info.link}">${info.link}</a>`;
+        }
+        subjectElement.innerHTML = `<h3>${info.name}</h3>
+                                     <p><strong>Link:</strong> ${linkInfo}</p>
+                                     <p><strong>Time:</strong> ${info.time}</p>
+                                     <p><strong>Paper:</strong> ${info.paper}</p>
+                                     <p><strong>Presenter:</strong> ${info.presenter}</p>`;
+        meetingInfoContainer.appendChild(subjectElement);
+    }
+}
+
+displayMeetingInformation();

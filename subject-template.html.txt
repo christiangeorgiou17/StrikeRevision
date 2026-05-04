@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{SUBJECT}</title>
+    <link rel="stylesheet" href="../../style.css">
+    <link rel="icon" href="images/favicon.ico" sizes="32x32">
+    <link rel="icon" href="images/favicon.svg" type="image/svg+xml">
+</head>
+<body>
+    <header>
+        <h1>{SUBJECT}</h1>
+    </header>
+    <main>
+        <p>Here is a collection of short bitesized videos on each topic of each paper.</p>
+
+        <section id="videos">
+            <h2>Videos</h2>
+
+            <h3>Paper 1</h3>
+            <div class="video-grid">
+
+            </div>
+
+            <h3>Paper 2</h3>
+            <div class="video-grid">
+
+            </div>
+
+                
+        </section>
+
+        <section id="past-papers">
+            <h2>Past Papers (PMT)</h2>
+
+            <ul>
+                <li><a href="https://www.physicsandmathstutor.com/past-papers/gcse-{SUBJECT}/{EXAM-BOARD}-paper-{PAPER}/">
+                    <span>Paper 1</span>
+                </a></li>
+                <li><a href="https://www.physicsandmathstutor.com/past-papers/gcse-{SUBJECT}/{EXAM-BOARD}-paper-{PAPER}/">
+                    <span>Paper 2</span>
+                </a></li>
+            </ul>
+
+            
+        </section>
+    </main>
+</body>
+</html>
