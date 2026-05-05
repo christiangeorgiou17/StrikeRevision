@@ -11,7 +11,7 @@ function displayMeetingInformation() {
         if (info.link === "TBD") {
             linkInfo = "TBD";
         } else if (info.link.startsWith("https://calendar.app.google/")) {
-            linkInfo = `<a href="Click here to join">${info.link}</a>`;
+            linkInfo = `<a href="${info.link}">Click here to join</a>`;
         } else if (info.link.startsWith("https://drive.google.com/")) {
             linkInfo = `<a href="${info.link}" target="_blank">Click here to rewatch</a>`;
         } else {
