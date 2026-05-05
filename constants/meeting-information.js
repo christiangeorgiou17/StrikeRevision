@@ -8,14 +8,14 @@ export const MEETING_INFORMATION = {
     },
     COMPUTER_SCIENCE: {
         name: "Computer Science",
-        link: "https://drive.google.com/drive/folders/16bqAoCrDV7aZYwsvwFljONrrfs4bFDCx?usp=sharing", // "https://calendar.app.google/Ef98Acr2CphDjU1S9",
+        link: "https://calendar.app.google/Ef98Acr2CphDjU1S9",
         time: "May 5 14:30",
         paper: "1",
         presenter: "Christian"
     },
     GEOGRAPHY: {
         name: "Geography",
-        link: "Cancelled", // "https://calendar.app.google/euhJUQqmp9josNDs8",
+        link: "https://calendar.app.google/euhJUQqmp9josNDs8",
         time: "May 6 10:30",
         paper: "1",
         presenter: "Christian"
