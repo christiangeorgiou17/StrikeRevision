@@ -21,7 +21,7 @@ function displayMeetingInformation() {
                                      <p><strong>Link:</strong> ${linkInfo}</p>
                                      <p><strong>Time:</strong> ${info.time}</p>
                                      <p><strong>Paper:</strong> ${info.paper}</p>
-                                     <p><strong>Presenter:</strong> ${info.presenter}</p>`;
+                                     <p><strong>Host:</strong> ${info.presenter}</p>`;
         meetingInfoContainer.appendChild(subjectElement);
     }
 }
