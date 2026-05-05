@@ -1,7 +1,7 @@
 export const MEETING_INFORMATION = {
     BIOLOGY: {
         name: "Biology",
-        link: "https://calendar.app.google/Zxw1W5Z4RCW4WBXW7",
+        link: "https://drive.google.com/drive/folders/1VLINc1jm4yC2muyRYqd25gRoZ6XK6G_b?usp=sharing", // "https://calendar.app.google/Zxw1W5Z4RCW4WBXW7",
         time: "May 5 10:30",
         paper: "1",
         presenter: "Christian"
@@ -47,5 +47,5 @@ export const MEETING_INFORMATION = {
         time: "May 8 14:30",
         paper: "1",
         presenter: "Erin"
-    },
+    }
 };

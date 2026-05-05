@@ -3,14 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{SUBJECT}</title>
+    <title>{SUBJECT_TITLE}</title>
     <link rel="stylesheet" href="../../style.css">
+    <script type="module" src="{SUBJECT_LOWER}.js" defer></script>
     <link rel="icon" href="images/favicon.ico" sizes="32x32">
     <link rel="icon" href="images/favicon.svg" type="image/svg+xml">
 </head>
 <body>
     <header>
-        <h1>{SUBJECT}</h1>
+        <h1>{SUBJECT_TITLE}</h1>
+        <p id="COUNTDOWN_PAPER_1"></p>
+        <p id="COUNTDOWN_PAPER_2"></p>
     </header>
     <main>
         <p>Here is a collection of short bitesized videos on each topic of each paper.</p>
@@ -35,10 +38,10 @@
             <h2>Past Papers (PMT)</h2>
 
             <ul>
-                <li><a href="https://www.physicsandmathstutor.com/past-papers/gcse-{SUBJECT}/{EXAM-BOARD}-paper-{PAPER}/">
+                <li><a href="https://www.physicsandmathstutor.com/past-papers/gcse-{SUBJECT_LOWER}/{EXAM-BOARD}-paper-{PAPER}/">
                     <span>Paper 1</span>
                 </a></li>
-                <li><a href="https://www.physicsandmathstutor.com/past-papers/gcse-{SUBJECT}/{EXAM-BOARD}-paper-{PAPER}/">
+                <li><a href="https://www.physicsandmathstutor.com/past-papers/gcse-{SUBJECT_LOWER}/{EXAM-BOARD}-paper-{PAPER}/">
                     <span>Paper 2</span>
                 </a></li>
             </ul>
