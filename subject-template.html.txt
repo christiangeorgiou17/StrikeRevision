@@ -16,6 +16,8 @@
         <p id="COUNTDOWN_PAPER_2"></p>
     </header>
     <main>
+        <h3>Go Back</h3>
+        <a href="../../index.html">Back to Main Page</a>
         <p>Here is a collection of short bitesized videos on each topic of each paper.</p>
 
         <section id="videos">
