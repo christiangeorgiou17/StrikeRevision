@@ -29,8 +29,8 @@ export const MEETING_INFORMATION = {
     },
     CHEMISTRY: {
         name: "Chemistry",
-        link: "TBD",
-        time: "May 7 14:30",
+        link: "https://calendar.app.google/ck2eMW9nTaw64bYz9",
+        time: "May 7 17:30",
         paper: "1",
         presenter: "Christian"
     },
@@ -44,7 +44,7 @@ export const MEETING_INFORMATION = {
     HISTORY: {
         name: "History",
         link: "TBD",
-        time: "May 8 14:30",
+        time: "May 8 17:30",
         paper: "1",
         presenter: "Erin"
     }
