@@ -15,7 +15,7 @@ export const MEETING_INFORMATION = {
     },
     GEOGRAPHY: {
         name: "Geography",
-        link: "https://calendar.app.google/euhJUQqmp9josNDs8",
+        link: "https://drive.google.com/drive/folders/1J6J1chdxCI-Gpp1v8dfOnEmNLG2JwGaL?usp=drive_link", // "https://calendar.app.google/euhJUQqmp9josNDs8",
         time: "May 6 10:30",
         paper: "1",
         presenter: "Christian"
