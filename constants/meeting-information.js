@@ -22,7 +22,7 @@ export const MEETING_INFORMATION = {
     },
     PSYCHOLOGY: {
         name: "Psychology",
-        link: "TBD",
+        link: "https://calendar.app.google/Y3Mq4ZXm5cP2LG8U6",
         time: "May 6 14:30",
         paper: "1",
         presenter: "Dulansa"
