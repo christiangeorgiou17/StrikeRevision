@@ -36,7 +36,7 @@ export const MEETING_INFORMATION = {
     },
     MATHS: {
         name: "Mathematics",
-        link: "TBD",
+        link: "https://calendar.app.google/a62Goru9bQ7VwpAc8",
         time: "May 8 17:30",
         paper: "1H",
         host: "Christian"
