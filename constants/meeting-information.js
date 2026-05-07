@@ -37,14 +37,14 @@ export const MEETING_INFORMATION = {
     MATHS: {
         name: "Mathematics",
         link: "TBD",
-        time: "May 8 11:15",
+        time: "May 8 17:30",
         paper: "1H",
         host: "Christian"
     },
     HISTORY: {
         name: "History",
         link: "TBD",
-        time: "May 8 17:30",
+        time: "May 9 14:30",
         paper: "1",
         host: "Erin"
     }

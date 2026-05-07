@@ -29,6 +29,9 @@ export const MATHEMATICS_PAPER_1_EXAM_DATE = new Date("May 14, 2026 09:00:00").g
 export const MATHEMATICS_PAPER_2_EXAM_DATE = new Date("Jun 3, 2026 09:00:00").getTime();
 export const MATHEMATICS_PAPER_3_EXAM_DATE = new Date("Jun 10, 2026 09:00:00").getTime();
 
+export const PHYSICAL_EDUCATION_PAPER_1_EXAM_DATE = new Date("May 22, 2026 09:00:00").getTime();
+export const PHYSICAL_EDUCATION_PAPER_2_EXAM_DATE = new Date("Jun 1, 2026 09:00:00").getTime();
+
 export const PHYSICS_PAPER_1_EXAM_DATE = new Date("Jun 2, 2026 09:00:00").getTime();
 export const PHYSICS_PAPER_2_EXAM_DATE = new Date("Jun 15, 2026 09:00:00").getTime();
 
