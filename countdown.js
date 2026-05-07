@@ -3,16 +3,32 @@
 function createString(message, days, hours, minutes, seconds) {
     let fullMessage = message;
     if (days !== 0) {
-        fullMessage += days + " Days  ";
+        if (days === 1) {
+            fullMessage += days + " Day  ";
+        } else {
+            fullMessage += days + " Days  ";
+        }
     }
     if (hours !== 0) {
-        fullMessage += hours + " Hours  ";
+        if (hours === 1) {
+            fullMessage += hours + " Hour  ";
+        } else {
+            fullMessage += hours + " Hours  ";
+        }
     }
     if (minutes !== 0) {
-        fullMessage += minutes + " Minutes  ";
+        if (minutes === 1) {
+            fullMessage += minutes + " Minute  ";
+        } else {
+            fullMessage += minutes + " Minutes  ";
+        }
     }
     if (seconds !== 0) {
-        fullMessage += seconds + " Seconds  ";
+        if (seconds === 1) {
+            fullMessage += seconds + " Second  ";
+        } else {
+            fullMessage += seconds + " Seconds  ";
+        }
     }
     return fullMessage;
 }
