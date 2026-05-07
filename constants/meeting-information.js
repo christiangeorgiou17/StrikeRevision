@@ -29,7 +29,7 @@ export const MEETING_INFORMATION = {
     },
     CHEMISTRY: {
         name: "Chemistry",
-        link: "https://calendar.app.google/ck2eMW9nTaw64bYz9",
+        link: "https://drive.google.com/drive/folders/1eb8IG-zOmVQ19WIDur_9LrFZJmdgUBm1?usp=sharing", // "https://calendar.app.google/ck2eMW9nTaw64bYz9",
         time: "May 7 17:30",
         paper: "1",
         host: "Christian"
