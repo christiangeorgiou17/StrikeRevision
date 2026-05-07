@@ -3,16 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{TOPIC}</title>
+    <title>{TOPIC_TITLE}</title>
     <link rel="stylesheet" href="../../../../style.css">
-    <link rel="icon" href="images/favicon.ico" sizes="32x32">
-    <link rel="icon" href="images/favicon.svg" type="image/svg+xml">
+    <link rel="icon" href="../../../../images/favicon.ico" sizes="32x32">
+    <link rel="icon" href="../../../../images/favicon.svg" type="image/svg+xml">
 </head>
 <body>
     <header>
-        <h1>{TOPIC}</h1>
+        <h1>{TOPIC_TITLE}</h1>
     </header>
     <main>
+        <p>Here is a collection of short bitesized videos on the topic of {TOPIC_TITLE}.</p>
+        <h3>Go Back</h3>
+        <a href="../../{SUBJECT_LOWER}.html">Back to {SUBJECT_TITLE} Page</a>
+        <h2>Videos</h2>
         <div class="video-grid">
 
         </div>

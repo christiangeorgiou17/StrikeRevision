@@ -22,7 +22,7 @@ export const MEETING_INFORMATION = {
     },
     PSYCHOLOGY: {
         name: "Psychology",
-        link: "https://calendar.app.google/Y3Mq4ZXm5cP2LG8U6",
+        link: "Complete", // "https://calendar.app.google/Y3Mq4ZXm5cP2LG8U6",
         time: "May 6 14:30",
         paper: "1",
         host: "Dulansa"
@@ -37,7 +37,7 @@ export const MEETING_INFORMATION = {
     MATHS: {
         name: "Mathematics",
         link: "TBD",
-        time: "May 8 10:30",
+        time: "May 8 11:15",
         paper: "1H",
         host: "Christian"
     },
