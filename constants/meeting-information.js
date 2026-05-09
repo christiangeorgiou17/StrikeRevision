@@ -50,7 +50,7 @@ export const MEETING_INFORMATION = {
     // }
     BIOLOGY_2: {
         name: "Biology 2",
-        link: "https://calendar.app.google/1dkRCgvj3jDDXQbn7",
+        link: "https://drive.google.com/drive/folders/1ayKBNTU9pMz6rZAbo4HX-cV71MQw0N4j", //  "https://calendar.app.google/1dkRCgvj3jDDXQbn7",
         time: "May 9 14:30",
         paper: "1",
         host: "Christian"
