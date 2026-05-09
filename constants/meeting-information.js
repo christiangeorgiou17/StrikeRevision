@@ -36,16 +36,23 @@ export const MEETING_INFORMATION = {
     },
     MATHS: {
         name: "Mathematics",
-        link: "https://drive.google.com/drive/folders/1ICHRMrKpyDhtZBa4hlzrZasz0Kw0AbPT", //  "https://calendar.app.google/a62Goru9bQ7VwpAc8",
+        link: "https://drive.google.com/drive/folders/1ICHRMrKpyDhtZBa4hlzrZasz0Kw0AbPT?usp=drive_link", // "https://calendar.app.google/a62Goru9bQ7VwpAc8",
         time: "May 8 17:30",
         paper: "1H",
         host: "Christian"
     },
-    HISTORY: {
-        name: "History",
+    // HISTORY: {
+    //     name: "History",
+    //     link: "TBD",
+    //     time: "May 9 14:30",
+    //     paper: "1",
+    //     host: "Erin"
+    // }
+    ENGLISH_LITERATURE: {
+        name: "English Literature",
         link: "TBD",
-        time: "May 9 14:30",
+        time: "May 10 14:30",
         paper: "1",
-        host: "Erin"
+        host: "Group"
     }
 };
