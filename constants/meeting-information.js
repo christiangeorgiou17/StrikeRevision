@@ -48,9 +48,16 @@ export const MEETING_INFORMATION = {
     //     paper: "1",
     //     host: "Erin"
     // }
+    BIOLOGY_2: {
+        name: "Biology 2",
+        link: "https://calendar.app.google/1dkRCgvj3jDDXQbn7",
+        time: "May 9 14:30",
+        paper: "1",
+        host: "Christian"
+    },
     ENGLISH_LITERATURE: {
         name: "English Literature",
-        link: "TBD",
+        link: "https://calendar.app.google/ZuD8PwTwrcUbhRoZ6",
         time: "May 10 14:30",
         paper: "1",
         host: "Group"
