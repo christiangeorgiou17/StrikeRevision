@@ -58,7 +58,7 @@ export const MEETING_INFORMATION = {
     ENGLISH_LITERATURE: {
         name: "English Literature",
         link: "https://calendar.app.google/ZuD8PwTwrcUbhRoZ6",
-        time: "May 10 14:30",
+        time: "May 10 15:30",
         paper: "1",
         host: "Group"
     }
