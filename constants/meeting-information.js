@@ -57,7 +57,7 @@ export const MEETING_INFORMATION = {
     },
     ENGLISH_LITERATURE: {
         name: "English Literature",
-        link: "https://calendar.app.google/ZuD8PwTwrcUbhRoZ6",
+        link: "https://drive.google.com/drive/folders/1HCv7aZiBJml9TIh-WDxNjyZy4DRJTR1O", //  "https://calendar.app.google/ZuD8PwTwrcUbhRoZ6",
         time: "May 10 15:30",
         paper: "1",
         host: "Group"
