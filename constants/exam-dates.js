@@ -48,6 +48,7 @@ export const SPANISH_WRITING_EXAM_DATE = new Date("Jun 16, 2026 09:00:00").getTi
 /*   The order of the exams is as follows:
 
 May 7:  Psychology Paper 1
+
 May 11: English Literature Paper 1
 May 12: Biology Paper 1
 May 13: Geography Paper 1
@@ -55,11 +56,13 @@ May 13: Geography Paper 1
 May 14: Mathematics Paper 1
         Psychology Paper 2
 May 15: History Paper 1A & 1B
+
 May 18: Chemistry Paper 1
 May 19: English Literature Paper 2
         Computer Science Paper 2
 May 21: English Language Paper 1
 May 22: Physical Education Paper 1
+
 
 Jun 1:  Physical Education Paper 2
 Jun 2:  Physics Paper 1
@@ -67,12 +70,14 @@ Jun 3:  Geography Paper 2
         Mathematics Paper 2
 Jun 4:  History Paper 2A & 2B
 Jun 5:  English Language Paper 2
+
 Jun 8:  Biology Paper 2
         Further Mathematics Paper 1
 Jun 9:  Spanish Listening & Reading
 Jun 10: Mathematics Paper 3
 Jun 11: Geography Paper 3
 Jun 12: Chemistry Paper 2
+
 Jun 15: Physics Paper 2
         Further Mathematics Paper 2
 Jun 16: Spanish Writing

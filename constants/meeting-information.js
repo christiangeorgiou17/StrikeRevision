@@ -50,14 +50,14 @@ export const MEETING_INFORMATION = {
     // }
     BIOLOGY_2: {
         name: "Biology 2",
-        link: "https://drive.google.com/drive/folders/1ayKBNTU9pMz6rZAbo4HX-cV71MQw0N4j", //  "https://calendar.app.google/1dkRCgvj3jDDXQbn7",
+        link: "https://drive.google.com/drive/folders/1ayKBNTU9pMz6rZAbo4HX-cV71MQw0N4j?usp=drive_link", // "https://calendar.app.google/1dkRCgvj3jDDXQbn7",
         time: "May 9 14:30",
         paper: "1",
         host: "Christian"
     },
     ENGLISH_LITERATURE: {
         name: "English Literature",
-        link: "https://drive.google.com/drive/folders/1HCv7aZiBJml9TIh-WDxNjyZy4DRJTR1O", //  "https://calendar.app.google/ZuD8PwTwrcUbhRoZ6",
+        link: "https://drive.google.com/drive/folders/1HCv7aZiBJml9TIh-WDxNjyZy4DRJTR1O?usp=drive_link", // "https://calendar.app.google/ZuD8PwTwrcUbhRoZ6",
         time: "May 10 15:30",
         paper: "1",
         host: "Group"
